@@ -1,4 +1,4 @@
-![Título do projeto](https://github.com/gacarvalho/PBI-LinkedIn/blob/main/img-fonte/titulo-img-readme.png?raw=true)
+![Título do projeto](https://github.com/gacarvalho/analise-de-dados-LinkedIn/blob/main/img-fonte/titulo-img-readme.png)
 
 ---
 
