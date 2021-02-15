@@ -21,5 +21,7 @@ O objetivo do projeto era desenvolver um dashboard onde fosse possível realizar
 [💡 Acessar um vídeo da interface do sistema](https://www.linkedin.com/feed/update/urn:li:activity:6747252282573758464/)
 
 ---
+![Interfaces do projeto](https://github.com/gacarvalho/analise-de-dados-LinkedIn/blob/main/img-fonte/20210215_004344.gif)
+---
 
-![Interfaces do projeto](https://github.com/gacarvalho/PBI-LinkedIn/blob/main/img-fonte/interfaces-img-readme.png?raw=true)
+![Interfaces do projeto](https://github.com/gacarvalho/analise-de-dados-LinkedIn/blob/main/img-fonte/background-img-linkedIn.png)
